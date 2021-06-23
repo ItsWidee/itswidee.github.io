@@ -2,8 +2,8 @@ title: Your place to read ItsWidee's mind !
 description: > # this means to ignore newlines until "baseurl:"
   This website is the blog of ItsWidee. You'll find here a lot of articles concerning many domains, like coding and design.
 permalink: ':title/'
-baseurl: "/itswidee.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "itswidee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
